@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<Library_Catalogue> 
+    <Books category="Technical"> 
+        <ISBN>12345</ISBN> 
+        <Title>History of Data Representation</Title> 
+        <Author>Theresa Greene</Author> 
+    </Books> 
+    <Books category="Technical"> 
+        <ISBN>54321</ISBN> 
+        <Title>Data Representation Made Easy</Title> 
+        <Author>A.P. Lane</Author> 
+    </Books> 
+        <Books category="Cookery"> 
+        <ISBN>98765</ISBN> 
+        <Title>1001 Cakes</Title> 
+        <Author>Victoria Sponge</Author> 
+    </Books> 
+    <Books category="Cookery"> 
+        <ISBN>54987</ISBN> 
+        <Title>1001 Dinners</Title> 
+        <Author>P.I.E. Shepard</Author> 
+    </Books> 
+</Library_Catalogue> 
+
